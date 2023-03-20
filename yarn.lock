@@ -1931,10 +1931,10 @@
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-1.0.1.tgz#0a851d3bd96498fa25c33ab7278ed3bd65f06c3e"
   integrity sha512-l42BggppR6zLmpfU6fq9HEa2oGPEI8yrSPL3GITjfRInppYFahObbIQOQK3UGxEnyQpltZLaPe75046NOZQikw==
 
-"@types/stripe-v3@^3.1.23":
-  version "3.1.23"
-  resolved "https://registry.yarnpkg.com/@types/stripe-v3/-/stripe-v3-3.1.23.tgz#ef8bab5448f610e2d0467bea0a59881e69e2c4e4"
-  integrity sha512-fqCnai832M6o6qH6A+Dqk1I/SXAzx629bknbrDigyvkuAPGZGrjkLCMxfnrtWswHXNPjj/TtuGf4lQnDXc815w==
+"@types/stripe-v3@^3.1.28":
+  version "3.1.28"
+  resolved "https://registry.yarnpkg.com/@types/stripe-v3/-/stripe-v3-3.1.28.tgz#90d8829aceedd0bf22c20a408f5dc6fd55f41115"
+  integrity sha512-5poJyz1QFXpi1hE2bAWy7gFMdj5Fgofm94DNCaTK9V2LeWPdhCQIaP/6qUagZwgCcTURXzih1J7f3sjXH1cOsw==
 
 "@types/styled-components@^5.1.9":
   version "5.1.9"
